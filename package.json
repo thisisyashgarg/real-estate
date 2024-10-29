@@ -21,7 +21,7 @@
     "git": "^0.1.5",
     "jsonwebtoken": "^9.0.2",
     "lucide-react": "^0.454.0",
-    "mongoose": "^8.5.1",
+    "mongoose": "^8.7.3",
     "paytmchecksum": "^1.5.1",
     "react": "^18.2.0",
     "react-bootstrap": "^2.9.0",
